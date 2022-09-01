@@ -117,7 +117,7 @@ footer{
 .follow{
     position: relative;
     left: 44rem;
-    top: 1rem;
+    top: 8px;
     color: white;
     font-size: 1.25rem;
 }
@@ -130,25 +130,25 @@ footer{
 .fb{
     position: relative;
     left: 43rem;
-    top: 1.5rem;
+    top: 12px;
     color: white;
 }
 .insta{
     position: relative;
     left: 43.5rem;
-    top: 1.5rem;
+    top: 12px;
     color: white;
 }
 .git{
     position: relative;
     left: 44rem;
-    top: 1.5rem;
+    top: 12px;
     color: white; 
 }
 .twit{
     position: relative;
     left: 44.5rem;
-    top: 1.5rem;
+    top: 12px;
     color: white;
 }
 .location{
