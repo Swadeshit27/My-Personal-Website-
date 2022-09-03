@@ -101,6 +101,7 @@ u1 li{
 .myskill{
     position: relative;
     left: 17rem;
+    width: 30%;
 }
 
 .social{
@@ -216,6 +217,7 @@ table,td{
     left: 5rem;
     top: -2rem;
     margin-bottom: 10px;
+    width: 20%;
  }
  /* Cotact Detail */
 .contact-2{
@@ -236,6 +238,7 @@ table,td{
     font-family: serif;
     color: #3120E0;
     margin: 25px;
+    width: 50%;
 }
 .contant{
     background-image: url("info\ background.avif");
